@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pycharm
+Exec={{INSTALLDIR}}/pycharm/bin/pycharm.sh
+Icon={{INSTALLDIR}}/pycharm/bin/pycharm.png
+Terminal=false
+Type=Application
+StartupNotify=true
